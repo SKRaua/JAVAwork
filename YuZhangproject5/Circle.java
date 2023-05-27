@@ -39,17 +39,21 @@ public class Circle extends Shape {
      * 
      * @return The area of this circle
      */
-    public double getArea() {
+    public double area() {
         return Math.PI * this.radius * this.radius;
     }
 
     public boolean equals(Object obj) {
-        final double TOLERANCE = 0.0001;
+        final double TOLERANCE = 0.00001;
         if (!(obj instanceof Circle)) {
             return false;
         }
         Circle other = (Circle) obj;
         return (super.equals(obj)
                 && Math.abs(this.radius - other.radius) < TOLERANCE);
+    }
+
+    public String toString() {
+        return getClass().getName() + ":" + this.radius;
     }
 }
