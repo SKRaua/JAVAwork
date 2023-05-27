@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JAVACODE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/XinYangZhouLab01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/XinYangZhouProject03.zip!/" />
+      <root url="jar://$PROJECT_DIR$/XinYangZhouProject02.zip!/" />
+      <root url="jar://$PROJECT_DIR$/XinYangZhouProject01.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

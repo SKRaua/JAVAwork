@@ -1,0 +1,21 @@
+The algorithm of main:
+1.Allow this user to cycle through selections until the selection is 3.If thechoice is 3, end the program.
+2.Read user's selection.
+3.Determine whether the choice is 1 or 2.
+4.Read grades entered by the user.
+5.Calculate average scores.
+6.Calculate letter grades.
+7.If the choice is 1,execute the "GRADE_REPORT" section.
+8.Display the result,All students' scores, average scores and letter grades.
+9.If the choice is 2,execute the "GRADE_REPORT_IN_FILE" section.
+10.Read the new file name entered by the user.
+11.print the result all students' scores, average scores and letter grades in the file.
+
+The algorithm of the method average:
+1.Score one plus score two, then divide by two.
+
+The algorithm of the method toletterGrade:
+1.A score of 90 or above is A.
+2.A score of 80 or above is B.
+3.A score of 70 or above is C.
+4.The rest is F.

@@ -1,0 +1,12 @@
+1.Read the months and the years entered by the user.
+2.Convert months of string type to integer.(Using the Swith statement)
+3.Determine whether the difference between the year and month has the same sign.
+4.Subtract two years and take an absolute value.
+5.Subtract two months and take an absolute value.
+6.Obtain a situation where the first year is greater than or equal to the second year, and the first month is less than the second month.
+7.First year minus second year minus 1.
+8.First month plus 12 minus second month.
+9.Obtain a situation where the first year is less than the second year, and the first month is greater than or equal to the second month
+10.Second year minus first year minus 1.
+11.Second month plus 12 minus first month.
+12.Display the result,the absolute value of the month difference and the year difference.
