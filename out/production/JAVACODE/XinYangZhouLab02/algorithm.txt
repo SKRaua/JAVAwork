@@ -1,4 +1,0 @@
-1.Prompt user for date input(month,day and year).
-2.Convert the month to numerical representation.
-3.Output date in the first form.
-4.Output date in the second form.

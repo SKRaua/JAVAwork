@@ -1,6 +1,0 @@
-1.Read the months and the years entered by the user.
-2.Convert months of string type to integer.
-3.Multiply the year by 12, add the respective months, make a difference, and 
-then divide by 12 to obtain the absolute value.
-4.Take the remainder.
-5.Display the result,the absolute value of the month difference and the year difference.

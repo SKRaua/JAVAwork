@@ -1,6 +1,0 @@
-1.Read the first name entered by the user.
-2.Read the last name entered by the user.
-3.Extract the first letter of the first name and uppercase it, extract the remaining letters and lowercase them, and then splice them together.
-4.Extract the first letter of the last name and uppercase it, extract the remaining letters and lowercase them, and then splice them together.
-5.display the first name.
-6.display the last name.

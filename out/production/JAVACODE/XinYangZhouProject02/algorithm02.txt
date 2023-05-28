@@ -1,9 +1,0 @@
-A bill generator 
-1.Read 5 items of data entered by the user.
-2.Process the first name, making the initial letter uppercase and other lowercase letters.
-3.Process the last name, making the initial letter uppercase and other lowercase letters.
-4.Length multiplied by width.
-5.the cost per square foot multiplied by the area.
-6.the total cost multiplied by the tax rate.
-7.the total cost plus the total tax.
-8.Display the result,the CUSTOMER,the MEASUREMENT and the CHARGES in the correct format.
