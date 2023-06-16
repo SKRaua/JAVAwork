@@ -1,4 +1,4 @@
-package chapter10.comparableemployee;
+package comparableemployee;
 
 /**
  * Represents a general paid employee.
